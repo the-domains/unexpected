@@ -1,8 +1,24 @@
+name: Unexpected
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.6654136
+title: Unexpected Items
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.17884
+  brandColors: []
   brandStrength: 0.5021151
   lightness: 0.689044
+  saturation: 0.17884
   rhythmicContrast: 0.1111708
-typography_spectrum: 0.6654136
-name: Unexpected
+purpose: []
