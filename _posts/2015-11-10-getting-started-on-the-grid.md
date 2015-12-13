@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-10T20:13:10.300Z'
-dateModified: '2015-11-10T17:28:36.246Z'
+datePublished: '2015-12-13T20:51:01.714Z'
+dateModified: '2015-11-10T20:13:10.300Z'
 title: Getting Started on The Grid
 author: []
 authors: []
