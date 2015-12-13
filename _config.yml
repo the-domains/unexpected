@@ -1,7 +1,7 @@
 name: Unexpected
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6654136
+layout_spectrum: 0.99011
+typography_spectrum: 0.51319
 title: Unexpected Items
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#ffd960'
     - '#9f4c12'
   brandStrength: 0.3125
-  lightness: 0.689044
-  saturation: 0.17884
-  rhythmicContrast: 0.1111708
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
